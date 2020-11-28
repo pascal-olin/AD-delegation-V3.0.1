@@ -884,7 +884,7 @@ Public Class MainForm
         End If
     End Sub
     Private Sub Form1_FormClosing(ByVal sender As System.Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles MyBase.FormClosing
-        'Here we need to insert all the actions required to close the active connections and sessions.
+        ' Here we need to insert all the actions required to close the active connections and sessions.
     End Sub
     Private Sub newgroupButton_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles newgroupButton.Click
         'here we clicked on the create group button 
