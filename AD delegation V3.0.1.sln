@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AD delegation V3.0.1", "AD delegation V3.0.1.vbproj", "{D3C1B697-CC30-4A9D-AE5D-443CEAA2202E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C1B697-CC30-4A9D-AE5D-443CEAA2202E}.Debug|x86.ActiveCfg = Debug|x86
+		{D3C1B697-CC30-4A9D-AE5D-443CEAA2202E}.Debug|x86.Build.0 = Debug|x86
+		{D3C1B697-CC30-4A9D-AE5D-443CEAA2202E}.Release|x86.ActiveCfg = Release|x86
+		{D3C1B697-CC30-4A9D-AE5D-443CEAA2202E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B842F1C2-B90A-4004-94E1-49DA95423388}
+	EndGlobalSection
+EndGlobal
