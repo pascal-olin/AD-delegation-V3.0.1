@@ -1,8 +1,9 @@
 # AD-delegation-V3.0.1
+-- this facility has been tested on windows 10 enterprise edition only 
+
+-- Description : 
 Allows end-users of AD domain to peek and (if delegated) to control the content of the AD groups they are administrators of
 To make this work, users running this code must be delegated access to an OU or SubOU in Active Directory
-
-
 
 As a visual basic form application project 
 it requires MS.VB.PowerPacks
